@@ -146,5 +146,23 @@ if (v == b)
         else {
             System.out.println("Hello eblan!");
         }
+* блок Swith
+int test = 3
+swith(test){
+	case 4:
+		:System.out.println("Переменная равна 4");
+		break;
+	case 6:
+		System.out.println("Переменная равна 6");
+		break;
+	case 5:
+		System.out.println("Переменная равна 5");
+		break;
 
+#блок который позволяет обробатывать несколько блоков кожда,на основе одной переменной
+*Циклы
+Цикл- это конструкция ,которая позволяет выполнаять часть(блок) несколько раз
+*цикл for
+for (int i = 0;i<10;++i){
+	System.out.println("hello world")}
  
